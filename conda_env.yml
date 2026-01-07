@@ -1,0 +1,8 @@
+name: conda_reproduce
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - ipykernel=6.28.0
