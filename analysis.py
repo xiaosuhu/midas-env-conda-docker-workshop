@@ -10,4 +10,4 @@ print("Mean:", df["value"].mean())
 print("Std:", df["value"].std())
 
 # Added a new line to print the number of rows
-print("Rows:", len(df))
+
